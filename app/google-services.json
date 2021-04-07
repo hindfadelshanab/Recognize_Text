@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245675671391",
+    "project_id": "refk-354b3",
+    "storage_bucket": "refk-354b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245675671391:android:82c394f5363187533800ea",
+        "android_client_info": {
+          "package_name": "com.example.textrecognitionfromcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245675671391-03tos581t668gbco73eudf5n4si4eufq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textrecognitionfromcamera",
+            "certificate_hash": "c0dc60a0cb1e98f0a54a8910cdd5178b50f8f907"
+          }
+        },
+        {
+          "client_id": "245675671391-97jqsc7hh769pimnvgk13j6gdqqembb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNuuWYWOBI-NnnPTmX2Hsa-n1Mkkw-wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245675671391-97jqsc7hh769pimnvgk13j6gdqqembb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
